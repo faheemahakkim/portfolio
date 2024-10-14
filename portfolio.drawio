@@ -7,19 +7,19 @@
         <mxCell id="dmkeZQ1Bk86bmbkehy7n-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="476" y="-2665" width="1005" height="1005" as="geometry" />
         </mxCell>
-        <mxCell id="JeCaWuAszPno6p1Zg0A_-1" value="&lt;h1&gt;Header&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;textDirection=ltr;" vertex="1" parent="1">
+        <mxCell id="JeCaWuAszPno6p1Zg0A_-1" value="&lt;h1&gt;Header&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="507" y="-2570" width="951" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="JeCaWuAszPno6p1Zg0A_-3" value="Tech byte" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="JeCaWuAszPno6p1Zg0A_-3" value="Tech byte" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="539" y="-2532.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JeCaWuAszPno6p1Zg0A_-4" value="search icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JeCaWuAszPno6p1Zg0A_-4" value="search icon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1099" y="-2540" width="73" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="JeCaWuAszPno6p1Zg0A_-5" value="language options english ,french" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JeCaWuAszPno6p1Zg0A_-5" value="language options english ,french" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="-2540" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JeCaWuAszPno6p1Zg0A_-6" value="sign in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JeCaWuAszPno6p1Zg0A_-6" value="sign in" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1324" y="-2548.5" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
