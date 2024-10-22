@@ -1,0 +1,18 @@
+{
+    "images": [
+        {
+        "name": "Collect",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", 
+        "img":"https://images.pexels.com/photos/16155467/pexels-photo-16155467/free-photo-of-a-couple-of-bicycles-parked-outside-of-a-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+
+        },
+        {
+         "name" :"Conclude",
+         "img":"https://images.pexels.com/photos/28429518/pexels-photo-28429518/free-photo-of-scenic-aerial-view-of-atlantic-road-norway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+         "desc" :"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+        }
+
+
+    ]
+}
